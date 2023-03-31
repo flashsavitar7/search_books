@@ -37,10 +37,10 @@
     transform: translateX(0);
 }
 .nav-item{
+    color: aqua !important;
     margin-bottom: 1.4rem;
 }
 .nav-link{
-    color: aqua;
     transition: var(--transition);
 }
 .nav-link:hover{
