@@ -28,6 +28,7 @@ body{
 /* resets */
 ul{
   list-style-type: none;
+  color: var(--white-color);
 }
 a{
   text-decoration: none;
