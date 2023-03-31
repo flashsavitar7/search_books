@@ -1,4 +1,8 @@
-.booklist, .book-details{
+.booklist{
+    padding: 3rem 0;
+    background-color: black;
+}
+.book-details{
     padding: 3rem 0;
     background-color: #f8f9fa;
 }
